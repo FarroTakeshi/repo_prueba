@@ -1,0 +1,26 @@
+@takeshi 264758537.257141   2.955 bk-7.3.1ce:   uniq_server --startsock=62619
+@takeshi 264758539.912382   5.610 bk-7.3.1ce:   new -Pq BitKeeper/etc/ignore
+@takeshi 264758540.436559   6.134 bk-7.3.1ce:     obtain write lock (8832)
+@takeshi 264758540.574426   6.272 bk-7.3.1ce:     write unlock (8832)
+@takeshi 264758540.710287   6.408 bk-7.3.1ce:   new -Pq BitKeeper/etc/ignore = 0
+@takeshi 264758540.939396   6.637 bk-7.3.1ce:   new -Pq BitKeeper/etc/gone
+@takeshi 264758540.958949   6.656 bk-7.3.1ce:     obtain write lock (7396)
+@takeshi 264758541.123386   6.821 bk-7.3.1ce:     write unlock (7396)
+@takeshi 264758541.124890   6.822 bk-7.3.1ce:   new -Pq BitKeeper/etc/gone = 0
+@takeshi 264758541.160985   6.858 bk-7.3.1ce:   new -Pq BitKeeper/etc/collapsed
+@takeshi 264758541.182043   6.880 bk-7.3.1ce:     obtain write lock (5172)
+@takeshi 264758541.607673   7.305 bk-7.3.1ce:     write unlock (5172)
+@takeshi 264758541.608675   7.306 bk-7.3.1ce:   new -Pq BitKeeper/etc/collapsed = 0
+@takeshi 264758541.808061   7.506 bk-7.3.1ce:   commit -S "-qFyInitial repository create"
+@takeshi 264758541.848167   7.546 bk-7.3.1ce:     obtain write lock (3372)
+@takeshi 264758542.005084   7.703 bk-7.3.1ce:     gfiles -vpC
+@takeshi 264758542.053713   7.751 bk-7.3.1ce:     gfiles -vpC = 0
+@takeshi 264758542.330950   8.028 bk-7.3.1ce:     check -cM -
+@takeshi 264758542.523463   8.221 bk-7.3.1ce:       idcache -q
+@takeshi 264758542.570086   8.268 bk-7.3.1ce:       idcache -q = 0
+@takeshi 264758542.953634   8.651 bk-7.3.1ce:     check -cM - = 0
+@takeshi 264758543.041165   8.739 bk-7.3.1ce:     write unlock (3372)
+@takeshi 264758543.041666   8.739 bk-7.3.1ce:     downgrade write lock (3372)
+@takeshi 264758543.044172   8.742 bk-7.3.1ce:   commit -S "-qFyInitial repository create" = 0
+@takeshi 264758543.045179   8.743 bk-7.3.1ce:   read unlock (3372)
+@takeshi 264758543.056204   8.754 bk-7.3.1ce: setup repo_prueba = 0
